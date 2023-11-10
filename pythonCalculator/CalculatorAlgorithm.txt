@@ -1,0 +1,13 @@
+1. Start
+2. Ask the user for the first number.
+3. Check if the input is a number.
+4. If the input is a number, proceed to step 5. If not, send an error message, then repeat step 3.
+5. Ask the operation they want to use between /, *, -, and +.
+6. If the input is not in the choices, proceed to the end of program. If not, continue to step 7.
+7. Ask for the second number.
+8. Check if the input is a number. If the input is a number, proceed to step 9. If not, repeat step 3,
+9. Print the result.
+10. Ask the user if they want to do another calculation.
+11. If the answer is yes, repeat from the start. If the answer is no, proceed to step 12.
+12. End the program.
+ 

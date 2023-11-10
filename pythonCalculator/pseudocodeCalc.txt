@@ -1,0 +1,30 @@
+x = enter 1st number:
+op = enter the operator:
+y = enter 2nd number:
+
+if op = '+'
+    z = x + y
+
+
+else if op = '-'
+    z = x - y
+
+else if op = '*'
+    z = x * y
+    
+else if op = '/'
+    if y != 0
+        z = x / y
+    else
+        print('error') 
+else
+    print('only choose between the choices')
+
+print(z)
+
+choice = do you want to do another calculation? y/n
+
+if choice = y
+    repeat program
+else:
+    end program
